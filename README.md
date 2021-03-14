@@ -1,3 +1,9 @@
+This is a weather web application build. It was built using React JS, the API is provided by OpenWeather.org and deployed using Netlify.
+The app is already deployed, here is the link: https://check-the-temp.netlify.app/. Enjoy!
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
